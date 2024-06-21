@@ -32,7 +32,7 @@ Préparation de données, analyse exploratoire, analyse descriptive
 
 Outils utilisés : Jupyter Notebook, Python, Pandas, Matplotlib
 
-# Titanic
+# Projet Titanic
 
 Préparation de données, analyse exploratoire
 
